@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "650fa1f1b4567890abcdef01"
+  },
+  "firstName": "Vince",
+  "lastName": "Beans",
+  "email": "vince@beans.edu",
+  "favoriteColor": "Blue",
+  "birthday": "1990-01-01"
+},
+{
+  "_id": {
+    "$oid": "650fa1f1b4567890abcdef02"
+  },
+  "firstName": "Person1",
+  "lastName": "Last1",
+  "email": "person@last1.edu",
+  "favoriteColor": "Green",
+  "birthday": "1992-05-15"
+},
+{
+  "_id": {
+    "$oid": "650fa1f1b4567890abcdef03"
+  },
+  "firstName": "Person2",
+  "lastName": "Last2",
+  "email": "person2@last2.org",
+  "favoriteColor": "Red",
+  "birthday": "1985-08-20"
+}]
